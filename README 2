@@ -1,0 +1,6 @@
+6.	Tag the current version of the master as “Version1” and push the tag to the remote repository.
+
+At this point you are done, and your remote repository should look like the one in the figure below in the "Network" view on GitHub. If it doesn’t, it means that you made a mistake in one of the steps. Given the fact that this assignment is fairly simple, as it mainly consists of executing the provided steps, I expect the network view to match the figure below exactly and will deduct points if this is not the case. Similarly, I expect all the commit messages and the content of the files in the repo to be correct.
+
+<img  alt="part3" src="https://cloud.githubusercontent.com/assets/1023063/22374035/5dada8ee-e472-11e6-8b2b-905295236771.png">
+To submit your assignment, post in Blackboard the commit ID for your submission, which you can obtain by running “git log -1” in Terminal 1 after the last (successful) command--the commit ID is the long hexadecimal number after "commit".
